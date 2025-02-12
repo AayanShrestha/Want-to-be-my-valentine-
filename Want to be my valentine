@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="HOME">
+      <div class="div">
+        <div class="main-home">
+          <div class="overlap-group">
+            <div class="overlap">
+              <div class="rectangle"></div>
+              <div class="rectangle-2"></div>
+              <div class="text-wrapper">PURCHASE</div>
+              <div class="text-wrapper-2">CONTACT US</div>
+              <div class="text-wrapper-3">FEATURES</div>
+              <div class="text-wrapper-4">ABOUT US</div>
+              <div class="rectangle-3"></div>
+              <div class="text-wrapper-5">HOME</div>
+            </div>
+            <div class="overlap-2">
+              <div class="LOGO">&nbsp;&nbsp;LOGO</div>
+              <img class="PAUHBHOOK-modified" src="img/PAUHBHOOK-modified-1.png" />
+            </div>
+            <img class="vector" src="img/image.svg" />
+            <img class="img" src="img/vector.svg" />
+            <div class="ellipse"></div>
+            <div class="ellipse-2"></div>
+            <div class="ellipse-3"></div>
+            <div class="ellipse-4"></div>
+            <div class="ellipse-5"></div>
+            <div class="overlap-3">
+              <div class="text-wrapper-6">PAUBHOOK</div>
+              <div class="text-wrapper-7">THE BEST SKETCHBHOOK</div>
+            </div>
+          </div>
+        </div>
+        <div class="about-us-short-page">
+          <div class="overlap-4">
+            <div class="overlap-group-2">
+              <div class="text-wrapper-8">ABOUT US</div>
+              <div class="text-wrapper-9">ABOUT THE PAUBHOOK</div>
+            </div>
+            <img class="rectangle-4" src="img/rectangle-5.png" />
+            <div class="overlap-5">
+              <p class="p">
+                The Paubhook is a next-generation sketchbhook that can reduce any issues that may arise from using other
+                sketchbhooks.
+              </p>
+              <div class="rectangle-5"></div>
+              <div class="text-wrapper-10">Read more</div>
+            </div>
+          </div>
+        </div>
+        <div class="our-sponsers">
+          <div class="overlap-6">
+            <div class="text-wrapper-11">OUR SPONSORS</div>
+            <div class="text-wrapper-12">SPECIAL THANKS TO</div>
+            <img class="rectangle-6" src="img/image.png" />
+            <img class="rectangle-7" src="img/rectangle-9.png" />
+            <img class="rectangle-8" src="img/rectangle-6.png" />
+            <img class="rectangle-9" src="img/rectangle-10.png" />
+            <img class="rectangle-10" src="img/rectangle-7.png" />
+            <img class="rectangle-11" src="img/rectangle-11.png" />
+            <img class="rectangle-12" src="img/rectangle-8.png" />
+            <img class="rectangle-13" src="img/rectangle-12.png" />
+          </div>
+        </div>
+        <div class="contact-us">
+          <div class="overlap-7">
+            <div class="ellipse-6"></div>
+            <div class="LOGO-2">&nbsp;&nbsp;LOGO</div>
+            <div class="rectangle-14"></div>
+            <div class="text-wrapper-13">aayanshresthastudio@gmail.com</div>
+            <div class="text-wrapper-14">+977 9841845094</div>
+            <div class="text-wrapper-15">SITEMAP</div>
+            <div class="home-about-us">-Home<br />-About us<br />-Features <br />-Purchase<br />-Contact us</div>
+            <div class="text-wrapper-16">CONTACT US</div>
+            <div class="rectangle-15"></div>
+            <div class="text-wrapper-17">Full Name</div>
+            <div class="rectangle-16"></div>
+            <div class="rectangle-17"></div>
+            <div class="text-wrapper-18">Your name</div>
+            <div class="text-wrapper-19">Your Message</div>
+            <div class="rectangle-18"></div>
+            <div class="text-wrapper-20">Submit</div>
+            <div class="text-wrapper-21">Send us messages</div>
+            <div class="text-wrapper-22">All our pages</div>
+            <img class="PAUHBHOOK-modified-2" src="img/PAUHBHOOK-modified-2.png" />
+          </div>
+        </div>
+        <div class="copy-right">
+          <div class="overlap-8">
+            <p class="copyright">
+              Copyright&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 ”company name” all rights reserved
+            </p>
+            <div class="text-wrapper-23">©</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
